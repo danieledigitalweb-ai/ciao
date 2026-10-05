@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   verification: {
-    google: '227wVvtRLbRoflusxyZj1MCtxlerxgMvpxMlJFYvC7g',
+    google: '2Z7wVvtRLbRofIusxyZj1MCtxLerxgMvpxMiJFYvC7g',
   },
 };
 
