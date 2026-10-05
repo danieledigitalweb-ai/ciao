@@ -48,10 +48,6 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-  robots: {
-    index: true,
-    follow: true,
-  },
   verification: {
     google: '227wVvtRLbRoflusxyZj1MCtxlerxgMvpxMlJFYvC7g',
   },
